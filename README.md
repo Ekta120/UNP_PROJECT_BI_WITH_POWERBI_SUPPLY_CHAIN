@@ -4,3 +4,4 @@ Studied and analyzed a supply chain dataset using PowerBI, and created user-frie
 https://drive.google.com/file/d/1f29ofNZLV22NyFkTE1_pk7bqtyR0IxAm/view?usp=sharing
 
 Also prepared a PowerPoint presentation summarizing the key findings and insights from the supply chain dataset analysis. This presentation serves as a handy reference for stakeholders and team members. PDF link of the PPT is given below:      
+https://drive.google.com/file/d/1QH2dElJDRx1rgEPy5GXqEp9sFjYPvFII/view?usp=sharing
